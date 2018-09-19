@@ -1,2 +1,0 @@
-# LuckyWebsites
-Created with CodeSandbox
